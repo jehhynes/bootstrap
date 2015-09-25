@@ -428,7 +428,7 @@ linters:
     style: double_quotes
 
   TrailingSemicolon:
-    enabled: true
+    enabled: false
 
   TrailingZero:
     enabled: false
